@@ -1,16 +1,16 @@
 {
   "name": "tyrone-edwards-landscaping",
-  "private": true,  
+  "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/Wissem7155hack/Tyrone-Edwards",
+  "homepage": "https://wissem7155hack.github.io/Tyrone-Edwards/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "build:gh": "vite build",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
+    "deploy": "node deploy.js"
   },
   "dependencies": {
     "@google/genai": "^1.30.0",

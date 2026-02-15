@@ -1,6 +1,6 @@
 import React, { useState, useEffect, useRef } from 'react';
 import Lenis from 'lenis';
-import { BrowserRouter as Router, Routes, Route, Link, useLocation, useParams, Navigate } from 'react-router-dom';
+import { HashRouter as Router, Routes, Route, Link, useLocation, useParams, Navigate } from 'react-router-dom';
 import Navbar from './components/Navbar';
 import Footer from './components/Footer';
 import LocationPage from './components/LocationPage';
@@ -1212,7 +1212,6 @@ const ContactPage = () => (
     <PageMeta
       title="Contact & Free Quote – Tyrone Edwards"
       description="Contact us for a free quote! Phone: . We're happy to discuss your hardscaping and construction project."
-      keywords="contact hardscaper, free quote construction, Tyrone Edwards contact"
     />
     <PageHeader
       title="Contact"

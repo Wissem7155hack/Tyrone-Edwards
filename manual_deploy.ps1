@@ -31,7 +31,7 @@ git commit -m 'deploy'
 
 Write-Host "6. Pushing to GitHub..." -ForegroundColor Cyan
 Write-Host "IMPORTANT: If asked to login, please check for a browser popup or your taskbar!" -ForegroundColor Yellow
-$repoUrl = "https://github.com/Wissem7155hack/Lujan-landscaping.git"
+$repoUrl = "https://github.com/Wissem7155hack/Tyrone-Edwards.git"
 
 # Attempt push, if it fails, try a deeper shallow clone trick or just retry
 try {
