@@ -1165,7 +1165,7 @@ const AboutPage = () => (
 
           <h3 className="text-2xl md:text-3xl font-serif text-earth-900 mb-4 md:mb-6 text-center">Excellence in Hardscaping & Construction</h3>
           <p className="leading-loose text-gray-600 mb-4 md:mb-6 text-sm md:text-base">
-           Tyrone Edwards is your expert partner for heavy-duty construction and complete landscape transformations. We specialize in hardscaping, structural retaining walls, custom patios, excavation, site grading, and tree removal.
+            Tyrone Edwards is your expert partner for heavy-duty construction and complete landscape transformations. We specialize in hardscaping, structural retaining walls, custom patios, excavation, site grading, and tree removal.
           </p>
           <p className="leading-loose text-gray-600 mb-4 md:mb-6 text-sm md:text-base">
             Every project receives personalized attention and a commitment to excellence. We use heavy machinery to clear land effectively and install tiered block systems to maximize your usable yard space. If you're interested in any of our services, give us a call or text at 425-870-9414 for availability and a free quote!
@@ -1387,7 +1387,7 @@ const BlogPostPage = () => {
             "name": "Tyrone Edwards",
             "logo": {
               "@type": "ImageObject",
-              "url": "https://tyroneedwardslandscaping.com.au/images/logo.png"
+              "url": "https://tyroneedwardslandscaping.com.au/logo.jpg"
             }
           }
         }}
